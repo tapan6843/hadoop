@@ -1,0 +1,2 @@
+com\hadoop\mapreduce\test\WordMapperTest.class
+com\hadoop\mapreduce\test\AllTranslationReducerTest.class

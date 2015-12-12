@@ -1,0 +1,3 @@
+com\hadoop\mapReduce\Dictionary.class
+com\hadoop\mapReduce\WordMapper.class
+com\hadoop\mapReduce\AllTranslationsReducer.class
